@@ -653,5 +653,9 @@
 		"url": "/files/skidibi/index.html",
 		"imageSrc": "/files/skidibi/splash.avif",
 		"name": "Skibidi Toilet"
-	}
+	},
+	{
+		"url": "https://catfoolyou.github.io/Website-v2/eaglerx/index.html",
+		"imageSrc": "/files/load/eaglercraft/buddyholly.jpg",
+		"name": "EaglercraftX"
 ]
